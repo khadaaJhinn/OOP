@@ -1,0 +1,11 @@
+﻿using ConsoleApp15;
+
+class Program1
+{
+    static void Main(string[] args)
+    {
+       ConMeo duc = new ConMeo();
+        duc.InPut();
+
+    }
+}
