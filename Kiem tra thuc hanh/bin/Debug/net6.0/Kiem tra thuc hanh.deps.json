@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kiem tra thuc hanh/1.0.0": {
+        "runtime": {
+          "Kiem tra thuc hanh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kiem tra thuc hanh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

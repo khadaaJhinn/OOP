@@ -1,0 +1,14 @@
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\bin\Debug\net6.0\Kiem tra thuc hanh.exe
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\bin\Debug\net6.0\Kiem tra thuc hanh.deps.json
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\bin\Debug\net6.0\Kiem tra thuc hanh.runtimeconfig.json
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\bin\Debug\net6.0\Kiem tra thuc hanh.dll
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\bin\Debug\net6.0\Kiem tra thuc hanh.pdb
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\Kiem tra thuc hanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\Kiem tra thuc hanh.AssemblyInfoInputs.cache
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\Kiem tra thuc hanh.AssemblyInfo.cs
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\Kiem tra thuc hanh.csproj.CoreCompileInputs.cache
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\Kiem tra thuc hanh.dll
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\refint\Kiem tra thuc hanh.dll
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\Kiem tra thuc hanh.pdb
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\Kiem tra thuc hanh.genruntimeconfig.cache
+D:\nhap mon lap trinh\Kiem tra thuc hanh\Kiem tra thuc hanh\obj\Debug\net6.0\ref\Kiem tra thuc hanh.dll
